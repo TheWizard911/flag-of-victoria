@@ -1,9 +1,8 @@
 # Flag of Victoria
 
-Two proposals by Brodie Geoffrey Dunn for a new state flag of Victoria, Australia.
+This site has moved to https://flagofvictoria.github.io/
 
-- [The Cross of Victoria](https://thewizard911.github.io/flag-of-victoria/)
-- [The Victorian Star](https://thewizard911.github.io/flag-of-victoria/proposed-victorian-flags-2.html)
+Repository: https://github.com/flagofvictoria/flagofvictoria.github.io
 
 Copyright © 2026 Brodie Geoffrey Dunn. All rights reserved. This work is copyright. Apart from any use as
 permitted under the Copyright Act 1968 (Cth), no part may be reproduced by any process without prior
